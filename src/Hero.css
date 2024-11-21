@@ -1,0 +1,25 @@
+.hero {
+    background-image: url('src/media/2400-welder-in-protective-mask-welding-steel-construction-at-factory-metalwork-and-construction-concept-an-industrial-welder-wearing-full-protection-and-walding-ai-generated.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.8;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff; 
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero .tagline {
+    font-size: 1.5rem;
+    color: #ff6700;
+  }
+  
